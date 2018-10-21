@@ -1,0 +1,18 @@
+{
+  "participants": [
+    {
+      "name": "John Doe",
+      "mail": "johndoe@example.com"
+    }
+  ],
+  "tasks": [
+    {
+      "name": "Mopping duty",
+      "description": "Mop the following rooms: Living room, kitchen, dining room, entrance hall and downstairs corridors",
+      "days": [
+        3,
+        4
+      ]
+    }
+  ]
+}
